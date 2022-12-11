@@ -4,7 +4,7 @@ API, delivered by the device, lets the user control and get measurements in real
 
 The project is based on the ESP32 chip.
 
-Tech Stack: C/C++
+Tech Stack: C/C++ (RTOS SDK), REST-API/TCP
 
 Supported sensors:
 - INA216
